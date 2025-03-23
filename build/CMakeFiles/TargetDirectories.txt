@@ -1,3 +1,0 @@
-C:/Users/jakli/Documents/VScodeProjects/SO2_p1/build/CMakeFiles/SO2_p1.dir
-C:/Users/jakli/Documents/VScodeProjects/SO2_p1/build/CMakeFiles/edit_cache.dir
-C:/Users/jakli/Documents/VScodeProjects/SO2_p1/build/CMakeFiles/rebuild_cache.dir

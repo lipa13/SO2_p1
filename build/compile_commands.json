@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/jakli/Documents/VScodeProjects/SO2_p1/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\SO2_p1.dir\\src\\main.cpp.obj -c C:\\Users\\jakli\\Documents\\VScodeProjects\\SO2_p1\\src\\main.cpp",
-  "file": "C:/Users/jakli/Documents/VScodeProjects/SO2_p1/src/main.cpp",
-  "output": "CMakeFiles/SO2_p1.dir/src/main.cpp.obj"
-}
-]
