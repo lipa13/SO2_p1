@@ -47,7 +47,6 @@ Każdy z wątków działa w nieskończonej pętli wykonując poniższe prace:
 
 Wątki te działają współbieżnie i są niezależne od siebie, jednak korzystają z wspólnych zasobów (widelców), które są reprezentowane jako muteksy. Główny wątek programu odpowiada za utworzenie wszystkich wątków filozofów oraz oczekuje na ich zakończenie poprzez wywołanie metody `join()` dla każdego z nich. Dzięki temu główny wątek nie kończy działania i program cały czas symuluje zachowanie filozofów siedzących przy stole.
 ### Sekcje krytyczne i ich rozwiązanie
-### Sekcje krytyczne i ich rozwiązanie
 
 W programie występują dwie główne sekcje krytyczne, czyli fragmenty kodu, do których dostęp musi być kontrolowany, aby uniknąć problemów wynikających z jednoczesnego dostępu wielu wątków do wspólnych zasobów.
 
